@@ -1,3 +1,3 @@
 # Springboard-DSC
 
-Repository for DSC & DSC prep projects
+Repository for Springboard Data Science Career Track Course projects
